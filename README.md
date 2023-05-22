@@ -2,7 +2,7 @@
 
 ### Collection of files that showcase the various ways of connecting to a database
 
-Files include building connection to a SQL Database with Python and eventually Querying them with Python libraries 
+Files include building connection to a SQL Database with Python and querying the database
 
 ### Analyzing the queried data
 
